@@ -1,0 +1,13 @@
+{
+  "name": "rekordbox-hot-cut-tagger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "xml-formatter": "^2.6.1",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.32"
+  }
+}
