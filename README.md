@@ -9,6 +9,8 @@ This repo converts hot cues to track colors via rekordbox.xml export/convert/imp
 
 This allows me to tag colors with my macbook's touchbar, without even looking at RB
 
+<img src="./screenshot-example.png" width="600"/>
+
 Options (configure variables in index.js)
 - Convert hot cues to track colors
 - Convert track colors to colored waveform cues at TotalTime - 0.01
@@ -26,8 +28,8 @@ Note: this removes typical hot cue functionality
 My specific taxonomy (as an example)
 --
 
-- HEAT - happy, high energy, heavy, ridiculous, light (tech house)
-- BRIGHT - HAPPY, medium energy, ridiculous, light (tech house, disco, funk)
+- HEAT - happy, high energy, heavy, ridiculous (tech house)
+- BRIGHT - HAPPY, medium energy, light, ridiculous (tech house, disco, funk)
 - CALM - happy, low energy (lofi, bright dub)
 - SLOW - slightly jaded, low energy, mostly happy, easy to listen to (indie)
 - DARK - slightly jaded, medium energy, mostly happy, high peaks (edm, pop)
@@ -35,7 +37,7 @@ My specific taxonomy (as an example)
 - TENSE - commanding, low-medium energy, heavy (techno)
 - AGGRO - commanding, high energy, heavy (techno, bass house)
 
-Most accurate when you're relaxed and calm / impervious to abrasive tracks
+Most accurate when I'm relaxed, calm, and impervious to abrasive tracks..
 
 Sort rating 5 first and see how they fall before starting on rating 4
 
@@ -68,6 +70,6 @@ Usage
 
 5. Refresh rekordbox.xml in sidebar
 
-6. Sort rekordbox.xml All Tracks by Color (not Playlists or cues won't update)
+6. Sort rekordbox.xml All Tracks (not Playlists) by Color
 
 7. Select tracks -> right click -> import to collection ("yes" if prompted)
